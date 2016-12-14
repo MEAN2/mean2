@@ -1,0 +1,19 @@
+{
+  "name": "mean2",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "include-all": "^2.0.0",
+    "morgan": "^1.7.0"
+  }
+}
