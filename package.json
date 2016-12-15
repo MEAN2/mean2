@@ -11,9 +11,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "async": "^2.1.4",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "glob": "^7.1.1",
     "include-all": "^2.0.0",
+    "lodash": "^4.17.2",
     "morgan": "^1.7.0"
   }
 }
